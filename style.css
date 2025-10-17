@@ -1,0 +1,90 @@
+
+.logo{
+     font-family: "Lobster Two", sans-serif;
+     color: white;
+}
+
+.navbar{
+    background-color: #3F3432;
+    
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 0;
+}
+.navLinks{
+    padding: 15px;
+    
+}
+.navLinks{    
+    display: flex;
+    gap: 25px; 
+    align-items: center; 
+    margin: 20;
+    padding: 20px;
+}
+.inicioTitulo{
+    font-family: "Lobster Two", sans-serif;
+}
+.numero{
+    color: white;
+}
+#inicio{
+    height: 50vh;
+    background-image: url(images/uno.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-center{
+    color: white;
+}
+.col-md .bi{
+    background-color: gainsboro;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    line-height: 80px;
+    border-radius: 80%;
+}
+.Especialidades py-5{
+    color: black1;
+}
+
+#Inicio2{
+    height: 50vh;
+    background-image: url(images/siete.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    display: flex;
+    align-items: center;
+}
+.col-md{
+    height: 50vh;
+    background-image: url(images/nueve.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+.col-md-6{
+    height: 50vh;
+    background-image: url(images/cuatro.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+.promocion{
+    height: 50vh;
+    background-image: url(images/cuatro.png);
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+
